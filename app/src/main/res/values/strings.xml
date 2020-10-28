@@ -1,0 +1,33 @@
+<resources>
+    <!--//Goutham Moorthy, 300948360, 002 -->
+    <string name="app_name">GouthamLab3</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Animation</string>
+    <string name="title_notifications">Tweened</string>
+    <string name="GouthamStudent">Goutham Moorthy 300948360</string>
+    <string name="clear_drawing">Clear Drawing</string>
+    <string name="First">Goutham</string>
+    <string name="Last">Moorthy</string>
+
+    <string-array name="pen_color">
+        <item>White</item>
+        <item>Green</item>
+        <item>Magenta</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+    </string-array>
+
+    <string-array name="pen_thickness">
+        <item>4 Size Font</item>
+        <item>8 Size Font</item>
+        <item>10 Size Font </item>
+        <item>15 Size Font </item>
+    </string-array>
+
+    <string-array name="picture_speed_rate">
+        <item>0.30 Seconds</item>
+        <item>0.35 Seconds</item>
+        <item>0.40 Seconds</item>
+        <item>0.50 Seconds</item>
+    </string-array>
+</resources>

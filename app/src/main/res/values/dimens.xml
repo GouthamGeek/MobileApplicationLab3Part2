@@ -1,0 +1,5 @@
+<resources>
+    <!--//Goutham Moorthy, 300948360, 002 -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
